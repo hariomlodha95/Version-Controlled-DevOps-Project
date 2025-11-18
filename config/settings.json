@@ -1,5 +1,8 @@
 {
     "environment": "development",
-    "version": "1.0.1-dev"
+    "version": "1.0.2-feature",
+    "feature_flags": {
+        "about_page": true
+    }
 }
 

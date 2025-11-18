@@ -17,6 +17,11 @@ Manage a DevOps project using Git best practices.
 - Added a new log in app.js
 - Modified heading in index.html
 
+## Feature Branch Updates
+- Added new About page (about.html)
+- Added navigation link in index.html
+- Added feature function in app.js
+
 ## Author
 Hari Om
 
