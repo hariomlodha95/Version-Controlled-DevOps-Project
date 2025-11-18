@@ -1,5 +1,5 @@
 {
-    "environment": "dev",
-    "version": "1.0.0"
+    "environment": "development",
+    "version": "1.0.1-dev"
 }
 

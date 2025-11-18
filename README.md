@@ -12,6 +12,11 @@ Manage a DevOps project using Git best practices.
 1. Clone the repo
 2. Open `app/index.html` in browser
 
+## Dev Branch Updates
+- Updated settings.json environment
+- Added a new log in app.js
+- Modified heading in index.html
+
 ## Author
 Hari Om
 
